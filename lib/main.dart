@@ -32,8 +32,6 @@ class _MyHomeState extends State<MyHome> {
     Text("Maxwell-Wien")
   ];
 
-  static const List<Widget> _widgetOptions = <Widget>[];
-
   void _onItemTapped(int index) {
     setState(() {
       _selectedIndex = index;
