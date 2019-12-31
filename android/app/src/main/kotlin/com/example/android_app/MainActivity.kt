@@ -1,4 +1,4 @@
-package com.example.android_app
+package space.yandi.kalkulatorrangkaianjembatan
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity
